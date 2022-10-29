@@ -1,6 +1,6 @@
 # 📝 Printf
 
-### Descripción
+### Descripción 
 
 Este proyecto consiste en replicar el funcionamiento de la función original de printf. 
 Se deben implementar las siguientes conversiones:
@@ -25,16 +25,16 @@ Prototipo de la función:
 
 int ft_printf(char const *s, ...);
 
-<img width="962" alt="Screen Shot 2022-10-29 at 6 52 19 PM" src="https://user-images.githubusercontent.com/66915274/198843555-bdc700f4-3aa0-4fcd-aa73-296c9d14253f.png">
+
+### Ejemplo de uso
+
+<b>Código: </b>
+
+![B030DA8C-43A1-48E6-A658-AE30472548C0](https://user-images.githubusercontent.com/66915274/198844199-3761987c-df3d-4c3d-90d1-e9f30583b83a.jpeg)
+
+<b>Output: </b>
 
 <img width="538" alt="Screen Shot 2022-10-29 at 6 54 40 PM" src="https://user-images.githubusercontent.com/66915274/198843655-23c772e4-1465-458b-9642-019bc62456dc.png">
-
-<img width="1007" alt="Screen Shot 2022-10-29 at 6 55 27 PM" src="https://user-images.githubusercontent.com/66915274/198843681-6cb84cb8-cd84-4e24-bef6-7e06655a5f79.png">
-
-<img width="1022" alt="Screen Shot 2022-10-29 at 6 55 52 PM" src="https://user-images.githubusercontent.com/66915274/198843689-f7010d9e-0904-450b-9c5b-b59abb1b638e.png">
-
-La función printf retorna el número de caracteres impresos, o un valor negativo si ocurre un error.
-No se debe implementar la gestión del buffer del original.
 
 ### Funciones autorizadas 
 
@@ -47,3 +47,20 @@ No se debe implementar la gestión del buffer del original.
 | va_arg | Accede al siguiente argumento de la función variada.               											|
 | va_copy | Hace una copia de los argumentos de la función variádica.               									|
 | va_end | Finaliza el recorrido de los argumentos de la función variada.                				|
+
+# Contacto 📥
+
+### Contacta conmigo si crees que puedo mejorar el tutorial! Puede ayudar a futuros estudiantes! 😁
+
+◦ Email: gemartin@student.42barcelona.com
+
+◦ Linkedin: https://www.linkedin.com/in/gemartin99/
+
+# Quizás pueda interesarte!
+
+### - Para ver mi progresion en el common core 42 ↙️
+
+[AQUÍ](https://github.com/gemartin99/42cursus)
+
+### - Mi perfil en la intranet de 42 ↙️
+[AQUÍ](https://profile.intra.42.fr/users/gemartin)
