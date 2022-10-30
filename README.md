@@ -1,6 +1,6 @@
 # 📝 Printf
 
-### Descripción 
+## Descripción 
 
 Este proyecto consiste en replicar el funcionamiento de la función original de printf. 
 Se deben implementar las siguientes conversiones:
@@ -26,7 +26,7 @@ Prototipo de la función:
 int ft_printf(char const *s, ...);
 
 
-### Ejemplo de uso
+## Ejemplo de uso
 
 <b>Código: </b>
 
@@ -36,7 +36,7 @@ int ft_printf(char const *s, ...);
 
 <img width="538" alt="Screen Shot 2022-10-29 at 6 54 40 PM" src="https://user-images.githubusercontent.com/66915274/198843655-23c772e4-1465-458b-9642-019bc62456dc.png">
 
-### Funciones autorizadas 
+## Funciones autorizadas 
 
 | Función  | Descripción														 			|
 |-------|-----------------------------------------------------------------------------------|
