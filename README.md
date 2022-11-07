@@ -42,7 +42,7 @@ int ft_printf(char const *s, ...);
 |-------|-----------------------------------------------------------------------------------|
 | malloc | Solicitar un bloque de memoria del tamaño suministrado como parámetro.     													|
 | free | Desasigna un bloque de memoria que se había asignado previamente mediante una llamada. 											|
-| write | Hace que los bytes que indiques del buffer sean escritos en el archivo seleccionado.								|
+| write | Hace que los bytes que indiques del buffer sean escritos en el file descriptor seleccionado.								|
 | va_start | Permite el acceso a los argumentos de la función variada.														|
 | va_arg | Accede al siguiente argumento de la función variada.               											|
 | va_copy | Hace una copia de los argumentos de la función variádica.               									|
