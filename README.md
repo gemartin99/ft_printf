@@ -51,8 +51,6 @@ int ft_printf(char const *s, ...);
 
 # Contacto 📥
 
-### Contacta conmigo si crees que puedo mejorar el tutorial! Puede ayudar a futuros estudiantes! 😁
-
 ◦ Email: gemartin@student.42barcelona.com
 
 ◦ Linkedin: https://www.linkedin.com/in/gemartin99/
