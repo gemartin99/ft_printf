@@ -23,8 +23,9 @@ Se deben implementar las siguientes conversiones:
 
 Prototipo de la función:
 
+```C
 int ft_printf(char const *s, ...);
-
+```
 
 ## Ejemplo de uso
 
