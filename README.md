@@ -49,11 +49,13 @@ int ft_printf(char const *s, ...);
 | va_copy | Hace una copia de los argumentos de la función variádica.               									|
 | va_end | Finaliza el recorrido de los argumentos de la función variada.                				|
 
-# Contacto 📥
+# Author ✍🏼
 
-◦ Email: gemartin@student.42barcelona.com
-
-◦ Linkedin: https://www.linkedin.com/in/gemartin99/
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/gemartin99/"><img src="https://avatars.githubusercontent.com/u/66915274?v=4" width="100px;" alt="100px"/><br /><sub><b>gemartin</b></sub></a><br /><a href="https://profile.intra.42.fr/users/gemartin" title="Intra 42"><img src="https://img.shields.io/badge/Barcelona-FFFFFF?style=plastic&logo=42&logoColor=000000" alt="Intra 42"/></a></td>
+  </tr>
+</table>
 
 # Quizás pueda interesarte!
 
@@ -63,3 +65,9 @@ int ft_printf(char const *s, ...);
 
 ### - Mi perfil en la intranet de 42 ↙️
 [AQUÍ](https://profile.intra.42.fr/users/gemartin)
+
+# Contacto 📥
+
+◦ Email: gemartin@student.42barcelona.com
+
+◦ Linkedin: https://www.linkedin.com/in/gemartin99/
